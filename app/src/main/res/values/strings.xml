@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P_Files</string>
+    <string name="btn_choose_files">Choose a file</string>
+    <string name="txt_files">My files</string>
+    <string name="btn_dialog_cancel">Cancel</string>
+    <string name="activity_preview">Preview File</string>
+    <string name="txt_preview_image">preview</string>
+</resources>
